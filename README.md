@@ -31,16 +31,17 @@
 ## 取り扱っている(予定含む)テーマ
 - ブロックチェーンとは
 - スマートコントラクト解説
-- dAppsゲーム（[googleドライブ資料](https://docs.google.com/presentation/d/1hTz5CL5Ig-eSOF3nLSY-kf95j-jz64hgAcNsinh_tUo/edit?usp=sharing)
-- DeFi（分散型金融）（[googleドライブ資料](https://docs.google.com/presentation/d/1ks9qy6EBWbURtFbpX4lZwMQHgzzvwtQBIp8fJt33KiA/edit?usp=sharing)
-- ブロックチェーン活用事例（[googleドライブ資料](https://docs.google.com/presentation/d/1zjkyJvjhKDaWUofu35y3wNlaSIUBWIZ7MQKKihLhF_U/edit?usp=sharing)
-- 法人のBTC投資事例（[googleドライブ資料](https://docs.google.com/presentation/d/1lm3vOQHcbbfCgssNhD1WTtYf4HfwO4mG2CylcOQqt4U/edit?usp=sharing)
-- スマコン × 保険事例（[googleドライブ資料](
-- CBDC（デジタル通貨）（[googleドライブ資料](https://docs.google.com/presentation/d/1zLQZssGcIUJHMwyqGkFy-_ppKISONMF5uAGKVKFi0Lg/edit?usp=sharing)
-- Etherum（[googleドライブ資料](https://docs.google.com/presentation/d/1BoL1_EDBIcZpmlky6No1AfsWHQWE-Hng8lVNp9R3Q_g/edit#slide=id.ga167b16689_0_0)
-- ビットコイン（BTC）（[googleドライブ資料](https://docs.google.com/presentation/d/1G7PuV3iqaCOfQ5Bw5ueFlvRxFrjXT7iRTaOuHenf9Ug/edit?usp=sharing)
-- Braveブラウザ（[googleドライブ資料](https://docs.google.com/presentation/d/1MvUOrOuoghk2TsYWchjgogDZfNmNU8JnF89sDqm7uHg/edit?usp=sharing)
-- 法律 /規制関連（[googleドライブ資料](https://docs.google.com/presentation/d/17o3hKpAPOKGRoHPxKOO2yzGUSp8VwD-0yIpk643HHH4/edit?usp=sharing)
+- dAppsゲーム[(googleドライブ資料)](https://docs.google.com/presentation/d/1hTz5CL5Ig-eSOF3nLSY-kf95j-jz64hgAcNsinh_tUo/edit?usp=sharing)
+- DeFi（分散型金融）[(googleドライブ資料)](https://docs.google.com/presentation/d/1ks9qy6EBWbURtFbpX4lZwMQHgzzvwtQBIp8fJt33KiA/edit?usp=sharing)
+- ブロックチェーン活用事例[(googleドライブ資料)](https://docs.google.com/presentation/d/1zjkyJvjhKDaWUofu35y3wNlaSIUBWIZ7MQKKihLhF_U/edit?usp=sharing)
+- 法人のBTC投資事例[(googleドライブ資料)](https://docs.google.com/presentation/d/1lm3vOQHcbbfCgssNhD1WTtYf4HfwO4mG2CylcOQqt4U/edit?usp=sharing)
+- スマコン × 保険事例
+- CBDC（デジタル通貨[(googleドライブ資料)](https://docs.google.com/presentation/d/1zLQZssGcIUJHMwyqGkFy-_ppKISONMF5uAGKVKFi0Lg/edit?usp=sharing)
+- Etherum[(googleドライブ資料)](https://docs.google.com/presentation/d/1BoL1_EDBIcZpmlky6No1AfsWHQWE-Hng8lVNp9R3Q_g/edit#slide=id.ga167b16689_0_0)
+- ビットコイン（BTC）[(googleドライブ資料)](https://docs.google.com/presentation/d/1G7PuV3iqaCOfQ5Bw5ueFlvRxFrjXT7iRTaOuHenf9Ug/edit?usp=sharing)
+- Braveブラウザ[(googleドライブ資料)](https://docs.google.com/presentation/d/1MvUOrOuoghk2TsYWchjgogDZfNmNU8JnF89sDqm7uHg/edit?usp=sharing)
+- 法律 /規制関連[(googleドライブ資料)](https://docs.google.com/presentation/d/17o3hKpAPOKGRoHPxKOO2yzGUSp8VwD-0yIpk643HHH4/edit?usp=sharing)
+
 ※徐々にGoogleスライドの内容をGithubに移行していく予定
 
 ## CHANGELOG
